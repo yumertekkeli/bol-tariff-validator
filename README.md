@@ -10,7 +10,7 @@ This project is an example for FBA sellers to track if the e-commerce platforms 
 * Outputs correct dimensions, distinctions & wrong tarif used products invoices.
 
 ## How to run? 
-Read the notebook for explanation of steps. For your own uses, make sure you replace the example_data and product_dimensions files with bol.com tarif invoice reports and product dimensions file accordingly. Then first run the "pip install -r requirements.txt" and following "ipython bol_tariff_validator.ipynb" locally in your command prompt
+Read the notebook for explanation of steps. For your own uses, make sure you replace the example_data and product_dimensions files with bol.com tariff invoice reports and product dimensions file accordingly. Then first run "pip install -r requirements.txt" and the following "ipython bol_tariff_validator.ipynb" locally in your command prompt.
 
 ## For own uses 
 This is a sample project you can clone this repository and rename this project for own purposes. 
